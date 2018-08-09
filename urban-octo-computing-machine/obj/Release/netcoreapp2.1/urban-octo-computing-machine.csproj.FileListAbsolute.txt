@@ -1,0 +1,10 @@
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\bin\Release\netcoreapp2.1\urban-octo-computing-machine.deps.json
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\bin\Release\netcoreapp2.1\urban-octo-computing-machine.runtimeconfig.json
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\bin\Release\netcoreapp2.1\urban-octo-computing-machine.runtimeconfig.dev.json
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\bin\Release\netcoreapp2.1\urban-octo-computing-machine.dll
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\bin\Release\netcoreapp2.1\urban-octo-computing-machine.pdb
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\obj\Release\netcoreapp2.1\urban-octo-computing-machine.csproj.CoreCompileInputs.cache
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\obj\Release\netcoreapp2.1\urban-octo-computing-machine.AssemblyInfoInputs.cache
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\obj\Release\netcoreapp2.1\urban-octo-computing-machine.AssemblyInfo.cs
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\obj\Release\netcoreapp2.1\urban-octo-computing-machine.dll
+C:\git\Source\Repos\urban-octo-computing-machine\urban-octo-computing-machine\obj\Release\netcoreapp2.1\urban-octo-computing-machine.pdb

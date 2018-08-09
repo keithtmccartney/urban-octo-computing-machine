@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  urban-octo-computing-machine:
+    image: ${DOCKER_REGISTRY}urbanoctocomputingmachine
+    build:
+      context: .
+      dockerfile: urban-octo-computing-machine\Dockerfile

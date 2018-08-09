@@ -1,0 +1,11 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  urban-octo-computing-machine:
+    build:
+      context: C:\git\Source\Repos\urban-octo-computing-machine
+      dockerfile: urban-octo-computing-machine\Dockerfile
+    image: urbanoctocomputingmachine
+version: '3.4'
